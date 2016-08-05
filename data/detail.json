@@ -1,0 +1,82 @@
+{
+    "data": {
+        "user": {
+            "name": "珂科",
+            "avatar": "http://www.wml.com/reactjs-demo1/images/user_avatar.jpeg",
+            "province": "成都",
+            "city": "都江堰",
+            "buy_count": 8,
+            "sold_count": 12,
+            "comments": 9,
+            "join_time": "1年1个月"
+        },
+        "mobile": {
+            "description": "自用苹果手机iphone6splus玫瑰金 16G有保修    2015年10月25日购买于香港苹果专卖店，有购买凭证，还有三个月全国保修，一直自用，有贴膜保护套，基本全新，配件包装购买凭证所有东西都在。",
+            "price": "3150",
+            "origin_price": "6288",
+            "status": [
+                "WiFi/蓝牙正常",
+                "无拆无修",
+                "无锁机",
+                "屏幕正常",
+                "无进水"
+            ],
+            "image": [
+                "http://www.wml.com/reactjs-demo1/images/1.jpg",
+                "http://www.wml.com/reactjs-demo1/images/2.jpg",
+                "http://www.wml.com/reactjs-demo1/images/3.jpg",
+                "http://www.wml.com/reactjs-demo1/images/4.jpg",
+                "http://www.wml.com/reactjs-demo1/images/5.jpg",
+                "http://www.wml.com/reactjs-demo1/images/6.jpg",
+                "http://www.wml.com/reactjs-demo1/images/7.jpg"
+            ]
+        },
+        "likers": {
+            "total": 8,
+            "users": [
+                {
+                    "name": "喵小猫",
+                    "avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLA6FRS9cwc7DLjm8YWhHEIfLOTrwQs7ibF9YpyIsNXVCfJ3fQCHDczqnlAyIh0z4w87MWqESMTmdRg/96"
+                },
+                {
+                    "name": "王老二",
+                    "avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM6FMvENoCOTq0JAibPpeKX644s3FibPK6mDXUNaNhwVOOWYAyXklqKSWds0miat6qJrTIQrzHVwibPojul0BXaRupzYfxyxogR5wd0/96"
+                },
+                {
+                    "name": "喵小猫",
+                    "avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLA6FRS9cwc7DLjm8YWhHEIfLOTrwQs7ibF9YpyIsNXVCfJ3fQCHDczqnlAyIh0z4w87MWqESMTmdRg/96"
+                },
+                {
+                    "name": "王老二",
+                    "avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM6FMvENoCOTq0JAibPpeKX644s3FibPK6mDXUNaNhwVOOWYAyXklqKSWds0miat6qJrTIQrzHVwibPojul0BXaRupzYfxyxogR5wd0/96"
+                }
+            ]
+        },
+        "comments": [
+            {
+                "name": "喵小猫",
+                "avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLA6FRS9cwc7DLjm8YWhHEIfLOTrwQs7ibF9YpyIsNXVCfJ3fQCHDczqnlAyIh0z4w87MWqESMTmdRg/96",
+                "content": "太贵了,接大刀吗?",
+                "timeline": "45分钟前"
+            },
+            {
+                "name": "王老二",
+                "avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM6FMvENoCOTq0JAibPpeKX644s3FibPK6mDXUNaNhwVOOWYAyXklqKSWds0miat6qJrTIQrzHVwibPojul0BXaRupzYfxyxogR5wd0/96",
+                "content": "2100能出吗?",
+                "timeline": "2小时前"
+            },
+            {
+                "name": "李泽天",
+                "content": "我出1000",
+                "avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLA6FRS9cwc7DLjm8YWhHEIfLOTrwQs7ibF9YpyIsNXVCfJ3fQCHDczqnlAyIh0z4w87MWqESMTmdRg/96",
+                "timeline": "1天前"
+            },
+            {
+                "name": "哈楼你好",
+                "content": "2500,得包邮",
+                "avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM6FMvENoCOTq0JAibPpeKX644s3FibPK6mDXUNaNhwVOOWYAyXklqKSWds0miat6qJrTIQrzHVwibPojul0BXaRupzYfxyxogR5wd0/96",
+                "timeline": "1个月前"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+.animate-list {
+    padding: 15px;
+    line-height: 2;
+}
+.animate-list button {
+    display: block;
+    width: 50%;
+    height: 30px;
+    margin: 0 auto;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #ff552e;
+}
+.example-enter {
+    opacity: 0.01;
+    transition: opacity .5s ease-in;
+}
+
+.example-enter.example-enter-active {
+    opacity: 1;
+}
+
+.example-leave {
+    opacity: 1;
+    transition: opacity .5s ease-in;
+}
+
+.example-leave.example-leave-active {
+    opacity: 0.01;
+}
+.animate-image {
+    position: absolute;
+    left: 0;
+}
+.animate-con {
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+}

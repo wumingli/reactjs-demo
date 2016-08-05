@@ -1,0 +1,91 @@
+{
+    "list": [
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-2.png",
+            "desc": " 移动4G/联通4G/电信4G ",
+            "id": "58982221"
+        },
+        {
+            "name": "iPhone6 32GB 98成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-1.png",
+            "desc": " 电信4G ",
+            "id": "58980099"
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "2000￥",
+            "time": "07-19",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-2.png",
+            "desc": " 移动4G/联通4G/电信4G ",
+            "id": "58980091"
+
+        },
+        {
+            "name": "iPhone6 32GB 98成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-1.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "58980092"
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-2.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "48980098"
+
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-1.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "48980011"
+
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-2.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "48980033"
+
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-1.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "48980023"
+
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-2.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "48980032"
+
+        },
+        {
+            "name": "iPhone6s Plus 16GB 9成新",
+            "price": "1050￥",
+            "time": "07-17",
+            "image": "http://www.wml.com/reactjs-demo1/images/list-1.png",
+            "desc": " 移动4G/联通4G ",
+            "id": "48980045"
+
+        }
+    ]
+}
