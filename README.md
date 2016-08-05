@@ -1,5 +1,10 @@
 # reactjs-demo
-a demo for reactjs
+
+## 先执行下面命令安装依赖包：
+
+```
+npm install
+```
 
 ## 开发模式，运行命令：
 
